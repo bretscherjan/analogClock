@@ -1,28 +1,3 @@
-/*
-// Create class to create different pointers
-class pointeur {
-    constructor(id) {
-        this.id = id;
-    }
-
-    toString() {
-        return `<span class="pointeur" id="${this.id}"></span>`;
-    }
-}
-// instancier new object for secondePointeur
-var secondePointeur = new pointeur("secondePointeur");
-document.write(secondePointeur.toString());
-
-// instancier new object for minutePointeur
-var minutePointeur = new pointeur("minutePointeur");
-document.write(minutePointeur.toString());
-
-// instancier new object for hourPointeur
-var hourPointer = new pointeur("hourPointeur");
-document.write(hourPointer.toString());
-*/
-
-
 // Functionto move the Hand's
 function updateClock() {
   // Searching current time
@@ -44,4 +19,5 @@ function updateClock() {
   hourHand.style.transform = `rotate(${hourDegrees}deg)`; // Rotate hourhand
 }
 // Update every second
+setInterval(updateClock, 1000);
 updateClock(); // Call updateClock() function
