@@ -9,7 +9,7 @@ Die Bewertungskriterien waren folgende:
 | **Anforderung**                                                                 | **Nicht erfüllt** | **Teilweise erfüllt** | **Erfüllt** |
 |---------------------------------------------------------------------------------|--------------------|------------------------|-------------|
 | **1. Die Uhr hat drei Zeiger und zeigt die aktuelle Zeit korrekt an**           | 0 Punkte           | 2 Punkte               | 5 Punkte    |
-| **2. Der Sekundenzeiger ändert seine Position gemäß der aktuellen Zeit**        | 0 Punkte           |                        | 5 Punkte    |
+| **2. Der Sekundenzeiger ändert seine Position gemäss der aktuellen Zeit**        | 0 Punkte           |                        | 5 Punkte    |
 | **3. Das HTML-File darf NICHT verändert werden**                                | 0 Punkte           |                        | 5 Punkte    |
 | **4. Die Uhr soll responsiv sein 📱**                                           | 0 Punkte           | 2 Punkte               | 5 Punkte    |
 | **5. Das CSS- und JS-File soll gut, verständlich und angemessen dokumentiert sein 📓** | 0 Punkte           | 2 Punkte               | 5 Punkte    |
